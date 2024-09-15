@@ -1,4 +1,4 @@
-Recipes = {0recipes = {
+recipes = {
     "small": {
         "ingredients": {
             "bread": 2,  ## slice
